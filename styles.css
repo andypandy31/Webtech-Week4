@@ -1,9 +1,15 @@
-.body {
+body {
     background-color: grey;
 }
 .first {
     font-style: italic;
 }
 .second {
-
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.third {
+    -webkit-text-fill-color: blue;
+}
+.forth {
+    padding-left: 50%;
 }
